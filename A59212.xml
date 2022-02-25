@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sentiments, a poem to the Earl of Danby in the Tower by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59212</idno>
+            <idno type="STC">Wing S2558</idno>
+            <idno type="STC">ESTC R10528</idno>
+            <idno type="EEBO-CITATION">11907291</idno>
+            <idno type="OCLC">ocm 11907291</idno>
+            <idno type="VID">50747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sentiments, a poem to the Earl of Danby in the Tower by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[1], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Vade ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50747:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:50747:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE SENTIMENTS. A POEM TO THE EARL of DANBY IN THE TOWER.</p>
+            <p>By a PERSON of QUALITY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Vade,</hi> at the Cock and Sugar-loaf in <hi>Fleet-ſtreet.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50747:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:50747:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>THE SENTIMENTS.</head>
+            <lg>
+               <l>
+                  <hi>AH, TOM!</hi> hadſt thou but read my <hi>MACHIAVEL,</hi>
+               </l>
+               <l>Thou might'ſt have kept in the <hi>Exchequer</hi> ſtill.</l>
+               <l>Thou might'ſt have Pol'd us o're, and o're again,</l>
+               <l>And more than <hi>Monarch,</hi> o're Three Kingdoms raign.</l>
+               <l>The two chief Sinews of Devouring War,</l>
+               <l>
+                  <hi>Money and Arms,</hi> ſtill at thy Elbows are.</l>
+               <l>Both in the Mint, and in the Magazine,</l>
+               <l>A Pageant of thy Power may be ſeen.</l>
+               <l>Theſe to thy ſelf thou hadſt ſecur'd, and then</l>
+               <l>
+                  <hi>Pompone</hi> and <hi>Cheeſe</hi> had both neglected been.</l>
+               <l>But thou, like th' fabulous Dog, to thy dear coſt,</l>
+               <l>Graſping at Shadows, haſt the Subſtance loſt.</l>
+               <l>Subjects that catch at Kingdoms, find at laſt,</l>
+               <l>The <hi>Globe</hi> is onely for a Monarch's graſp.</l>
+               <l>The <hi>Golden-Ball,</hi> in Emblematick ſence,</l>
+               <l>Says, Supream Rule onely belongs toth' Prince;</l>
+               <l>For us 'tis dang'rous; and th' Exceſs of Power.</l>
+               <l>Sends the dread Wight, to put it off i'th' <hi>TOWER.</hi>
+               </l>
+               <l>Then the man looks, that ſtruck the Iſle with fear,</l>
+               <l>Harmleſs, as are the uncharg'd Cannon there;</l>
+               <l>Or as the Figures armed <hi>Cap-a-pe,</hi>
+               </l>
+               <l>Which Reliques of our <hi>Britiſh</hi> Glory be.</l>
+               <pb n="4" facs="tcp:50747:3"/>
+               <!-- PDF PAGE 3 -->
+               <l>'Tis not your patience ſtops the Ills you'd do;</l>
+               <l>Then ſtingleſs Snakes lie ſtill by Patience too:</l>
+               <l>But as hard Froſts do Torrents quiet make,</l>
+               <l>Here you're Confin'd for th' Publick ſafety's ſake.</l>
+               <l>Now may'ſt thou ſmile to ſee the ſolemn ſport,</l>
+               <l>Which vexes buſie Greatneſs in the <hi>Court.</hi>
+               </l>
+               <l>Too late you know, Court-Policie's more fit</l>
+               <l>To be rejected, than to ſtudy it.</l>
+               <l>Since that the <hi>Actions</hi> of th' <hi>Ambitious</hi> are</l>
+               <l>But as the falſe Alarms in Running War.</l>
+               <l>Unquietneſs and Guilt is all they gain,</l>
+               <l>And the great Toil is recompenc'd with Pain.</l>
+               <l>
+                  <hi>Thrones</hi> are the hardeſt Seats in Palaces,</l>
+               <l>Where weary Power does never ſit at eaſe.</l>
+               <l>Methinks I hear thee pleaſantly declare,</l>
+               <l>How rigidly thou art confin'd from Care;</l>
+               <l>And others growing into thy Diſeaſe,</l>
+               <l>Whilſt you for Penance, muſt endure your Eaſe.</l>
+               <l>Fallacious Power, a Great man's worſt Diſeaſe;</l>
+               <l>Without it ſick, and with it, worſe at eaſe.</l>
+               <l>'Tis the <hi>Court-Gout,</hi> of which, men ne're complain;</l>
+               <l>Fruition numbs and ſtupifies the Pain.</l>
+               <l>In its decreaſe the Patient worſe does grow;</l>
+               <l>In all Diſtempers elſe, 'tis never ſo.</l>
+               <l>But to thine own Experience I appeal;</l>
+               <l>Doſt thou not now its bitter twinges feel?</l>
+               <l>
+                  <hi>Fav'rites</hi> depos'd, wiſh they had never known</l>
+               <l>
+                  <hi>Riches</hi> or <hi>Sway</hi> they toil'd to make their own.</l>
+               <pb n="5" facs="tcp:50747:3"/>
+               <!-- PDF PAGE 3 -->
+               <l>A <hi>Great Man</hi>'s Rule and Power is underſtood</l>
+               <l>More in the harm they do him, than the good.</l>
+               <l>Miſchiefs make haſte, in their acceſs; but ſlow,</l>
+               <l>As loaded Snails, when they depart, they go.</l>
+               <l>Increaſe of <hi>Power,</hi> the Tyde of Greatneſs, is</l>
+               <l>Thruſt on at Land, as Rivers are from Seas:</l>
+               <l>Which at no Mark can one poor moment ſtay,</l>
+               <l>But when it leaves to float, muſt ebbe away.</l>
+               <l>A <hi>Subjects Grandeur</hi> hath this worſt of fate,</l>
+               <l>That where its glory moſt does elevate,</l>
+               <l>'Tis blemiſht there, by being ſingular,</l>
+               <l>And Envy blaſts the Fame it cannot ſhare.</l>
+               <l>The Sun's exceſs of Luſtre, is the Cauſe,</l>
+               <l>That o're's own face he ſuch dark Vapors draws:</l>
+               <l>So ſince thy Race in glory was begun,</l>
+               <l>Thou canſt not now black Exhalations ſhun.</l>
+               <l>Through Miſts of Common breath, thy paſſage lyes,</l>
+               <l>And from their Lungs, the worſt Contagion flyes.</l>
+               <l>Made bigger, like the Sun at's going down,</l>
+               <l>Though rob'd o'th' Rays that did his Temples Crown.</l>
+               <l>A <hi>Stateſ-man</hi>'s <hi>Greatneſs,</hi> like the Chymiſt's Stone,</l>
+               <l>Breeds buſie Spies, and Dangers, when 'tis ſhown.</l>
+               <l>'Tis dangerous to take into our Breaſts</l>
+               <l>Secrets of <hi>Kings,</hi> and <hi>Kingdoms</hi> Intereſts.</l>
+               <l>The <hi>Jews</hi> that ſwallow'd down their wealthy Stuff,</l>
+               <l>Found their own Bowels were not ſafe enough.</l>
+               <l>Whilſt thus to ſave their Jewels, they Deſigne,</l>
+               <l>The <hi>Roman</hi> Swords, Delv'd into th' living Mine.</l>
+               <pb n="6" facs="tcp:50747:4"/>
+               <!-- PDF PAGE 4 -->
+               <l>Happy's the Man, that can ſecurely pleaſe</l>
+               <l>His humble Mind with Ignorance and Eaſe;</l>
+               <l>That ne're approaches on the Icie ground,</l>
+               <l>Where <hi>Monarchs</hi> walk, nor their vaſt depths does ſound.</l>
+               <l>Who's led by no Court-wiſp, t'a Precipice,</l>
+               <l>Where on each ſide, Ruine preſented is.</l>
+               <l>Whilſt a <hi>State-Pylot</hi> would <hi>Charybdis</hi> ſhun,</l>
+               <l>What boots it, if on <hi>Scylla</hi> he muſt run?</l>
+               <l>'Twixt two Extreams, let <hi>Vertue</hi> keep her Throne,</l>
+               <l>The <hi>Golden Mean</hi> to Stateſmen's rarely known.</l>
+               <l>With <hi>Icarus</hi> on waxen Plumes they flye,</l>
+               <l>And ſoar a pitch, for their weak wings too high,</l>
+               <l>'Till they come tumbling headlong from the Skie.</l>
+               <l>Lax't by the Beams they riſe, they fall as faſt,</l>
+               <l>As Arrows, when their Elevations paſt.</l>
+               <l>So dangerous a Riſque thou hadſt not run,</l>
+               <l>Hadſt thou took <hi>Phoebus</hi>'s Councel to his Son;</l>
+               <l>Or thought to th' <hi>Builders</hi> what Confuſion came,</l>
+               <l>By raiſing <hi>Babel</hi> to too high a frame;</l>
+               <l>Thou hadſt not, then, miſtook the way to Fame,</l>
+               <l>And where th'expectedſt Glory, met with Shame.</l>
+               <l>Thou then hadſt ſpent thy Days ſecure, at eaſe</l>
+               <l>Calm as the <hi>Halcyons</hi> brooding on the Seas.</l>
+               <l>But obſtinate as <hi>Phaëton</hi> thou waſt,</l>
+               <l>And now maiſt curſe thy raſh unbridled haſte.</l>
+               <l>For he that undertakes <hi>Great Charles his Wain</hi>
+               </l>
+               <l>Is but another <hi>Phaëton</hi> in Grain,</l>
+               <l>And bids the <hi>Britiſh World</hi> betimes complain.</l>
+               <pb n="7" facs="tcp:50747:4"/>
+               <!-- PDF PAGE 4 -->
+               <l>Deſtruction's threatned by his mad Career,</l>
+               <l>And all th' <hi>Inferior World</hi> is ſtruck with fear.</l>
+               <l>'Tis then high time, that <hi>Jove</hi> his Thunder take,</l>
+               <l>And all reſerves of Pitty quite forſake;</l>
+               <l>This muſt be ſo, for the <hi>Poor Kingdom</hi>'s ſake.</l>
+               <l>When <hi>Miniſters</hi> their Publick Power reduce</l>
+               <l>To private Ends, and to peculiar uſe,</l>
+               <l>Ill fares the <hi>State:</hi> for then they act the wrong,</l>
+               <l>Which to prevent, they only were made ſtrong;</l>
+               <l>The Nobleſt task, that does to Power belong.</l>
+               <l>Theſe always ſhould be eaſie of Acceſs;</l>
+               <l>Let <hi>Suitors</hi> need no Guide, but their Diſtreſs;</l>
+               <l>When high in Power, make their approaches low,</l>
+               <l>To meet and lift the humble, when they bowe.</l>
+               <l>They ſhould with patient Ears, attend the Tongue,</l>
+               <l>And hear th' oppreſſed out, though ne're ſo long.</l>
+               <l>With ſuch a ſweet Compaſſion meet their moan,</l>
+               <l>They ſhould with that, ſeem ſatisfy'd, when gone.</l>
+               <l>A Gen'rous Temper, ſweet Civility,</l>
+               <l>Forms, without which, Courts but in <hi>Chaos</hi> lye;</l>
+               <l>And which, the cognizance have ever been,</l>
+               <l>Of a ſafe Greatneſs, ſatisfy'd within;</l>
+               <l>Which covets toyling Power, for others Eaſe,</l>
+               <l>Not to be able to offend, but pleaſe.</l>
+               <l>Who never Peace obſtruct, becauſe they are</l>
+               <l>Accountleſs Stewards to that ſpender War.</l>
+               <l>O what a mighty Diſtance does appear</l>
+               <l>Between the <hi>Court,</hi> and this fair Character!</l>
+               <pb n="8" facs="tcp:50747:5"/>
+               <!-- PDF PAGE 5 -->
+               <l>Mankinde doth practiſe Villany ſo faſt,</l>
+               <l>As they ſhould act too little, without haſt.</l>
+               <l>Earth which made man, Refin'd, man does eſteem,</l>
+               <l>Although the Author of all Ills to him.</l>
+               <l>
+                  <hi>Midas</hi> himſelf knew not a greater Curſe,</l>
+               <l>Than that of Gold; nor can there be a worſe.</l>
+               <l>Branded for folly, wiſely yet he went,</l>
+               <l>By <hi>Mighty Bacchus,</hi> to <hi>Pactolus,</hi> ſent.</l>
+               <l>And in the ſtreams his Golden vertue leaves,</l>
+               <l>Which to her Sands as proudly ſhe bequeaths.</l>
+               <l>Th' Ambitious Stateſ-man do'nt himſelf admire</l>
+               <l>For what he hath, but proudly does deſire;</l>
+               <l>Does tacitly confeſs, he aims at Sway,</l>
+               <l>Becauſe he's grown too haughty to obey.</l>
+               <l>His <hi>Paraſites,</hi> who contradict their Heart,</l>
+               <l>With well-diſſembled Lyes, their ſtudy'd Art;</l>
+               <l>Pleaſe him, though their own Reaſon they diſpleaſe,</l>
+               <l>Hoping their fawning Arts may gain them Eaſe.</l>
+               <l>How vainly glorious does he then appear,</l>
+               <l>Whom the Proud envy, and the Humble fear!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>My Lord,</hi>
+               </l>
+               <l>Since You were placed by the <hi>Royal Hand,</hi>
+               </l>
+               <l>On giddy Heights, where none alive could ſtand:</l>
+               <l>Since You were deſtin'd to more watchful Care,</l>
+               <l>Than <hi>Centinels</hi> in <hi>Towns,</hi> the <hi>Scenes</hi> of War:</l>
+               <l>To ſtear the State when diſmal Stormes appear'd,</l>
+               <l>Such, as were by the beſt State-Pylots fear'd;</l>
+               <pb n="9" facs="tcp:50747:5"/>
+               <!-- PDF PAGE 5 -->
+               <l>Deſerves more wonder, that ſo long You ſtood,</l>
+               <l>Than that You e're were ſhipwrackt in the flood.</l>
+               <l>Search Ages paſt, and Records for their Fate,</l>
+               <l>Great Fav'rites ſeldome have prov'd fortunate.</l>
+               <l>Toth' <hi>Tower,</hi> from the Throne tranſplanted, now,</l>
+               <l>Though waſht with fruitful Tides, ne're hope to grow.</l>
+               <l>The Fates thy Term of Greatneſs did aſſigne,</l>
+               <l>To which arriv'd, thou do'ſt as faſt decline:</l>
+               <l>When Fav'rites ſet, they never riſe to ſhine;</l>
+               <l>Or if they do, 'tis a portentous Light,</l>
+               <l>Like that of Emrald-Rainbows in the Night,</l>
+               <l>Or Comets, that ſtrike terror to our ſight.</l>
+               <l>States-men, the topmoſt Boughs of Cedars be,</l>
+               <l>Adding both height and beauty to the Tree:</l>
+               <l>But from the <hi>Royal Trunk</hi> when lopt away,</l>
+               <l>They quickly fade, and run into decay.</l>
+               <l>At thy <hi>Enſtalment,</hi> when thy <hi>George</hi> fell down,</l>
+               <l>'Twas for an <hi>Omen,</hi> of thy Ruine, ſhown.</l>
+               <l>The <hi>Genius</hi> of the <hi>Iſle,</hi> the <hi>Brave</hi> St <hi>George,</hi>
+               </l>
+               <l>Left Thee to ſullen Fate, and ſcorn'd his Charge.</l>
+               <l>What Wiſdome then thy Conduct can decry,</l>
+               <l>Becauſe too weak to baffle Deſtiny?</l>
+               <l>Let zealous Fools rejoyce, I cannot chooſe</l>
+               <l>But mourn, for the great Excellence we looſe.</l>
+               <l>Such a prepoſterous Fate does wail it hence,</l>
+               <l>When it does fall, it riſes to our ſence.</l>
+               <l>Great Vertue may be dang'rous whil'ſt 'tis here,</l>
+               <l>As Light offends the Eyes by being near.</l>
+               <pb n="10" facs="tcp:50747:6"/>
+               <!-- PDF PAGE 6 -->
+               <l>This <hi>Topick</hi> well <hi>His Royal Highneſs</hi> knew,</l>
+               <l>And, in Obedience to the <hi>King,</hi> withdrew.</l>
+               <l>As the <hi>Brave Julius,</hi> who did early ſtrive,</l>
+               <l>At more than man, was hated when alive,</l>
+               <l>Even for that Vertue; which was rais'd ſo high,</l>
+               <l>When dead, it made him ſtrait <hi>a Deity.</hi>
+               </l>
+               <l>Our <hi>Royal Heroe</hi> thus will Fame prefer,</l>
+               <l>And place him foremoſt in her Kalender.</l>
+               <l>So <hi>Noble, Valiant, Loyal,</hi> One whoſe Name,</l>
+               <l>Flyes round the World, upon the Wings of <hi>Fame:</hi>
+               </l>
+               <l>Whom, like a <hi>Heroe</hi> in ſome Battle loſt,</l>
+               <l>I mention, not in pitty, but in boaſt.</l>
+               <l>Whoſe Subjects, then, ſhall wiſh him in the <hi>Throne,</hi>
+               </l>
+               <l>Too late, when He to's Kindred Gods is gone.</l>
+               <l>By being Confin'd, Your <hi>Lordſhip</hi>'s ſet at large,</l>
+               <l>And have from Care and Pow'r a bleſt diſcharge.</l>
+               <l>Being now far more <hi>Auguſt,</hi> within Your Sphere,</l>
+               <l>Than when the <hi>Courts bright Star</hi> You did appear.</l>
+               <l>Let others take their turns of Power and State,</l>
+               <l>And their own Fortunes ſo precipitate,</l>
+               <l>Unleſs by Yours, they rectifie their Fate.</l>
+               <l>Leave them to reſtleſs Care, being ſtill alarm'd,</l>
+               <l>With <hi>bloudy Factions,</hi> though they ſeem unarm'd;</l>
+               <l>Who for our Souls-ſake, would <hi>Religion</hi> change,</l>
+               <l>And think their own the beſt, for being ſtrange:</l>
+               <l>Who weary of Our <hi>Scepter</hi> here, would fly,</l>
+               <l>To ſeek new Faſhions for <hi>Authority,</hi>
+               </l>
+               <l>And fetch us home <hi>a Crown three ſtories high.</hi>
+               </l>
+               <pb n="11" facs="tcp:50747:6"/>
+               <!-- PDF PAGE 6 -->
+               <l>From <hi>Forreign States,</hi> they'd bring Rebellion home,</l>
+               <l>Then call juſt Puniſhment <hi>a Martyrdome.</hi>
+               </l>
+               <l>For when by Juſtice of the Law ſubdu'd,</l>
+               <l>They call unwilling ſuffring, Fortitude.</l>
+               <l>
+                  <hi>Coleman</hi> his Treaſons did negotiate,</l>
+               <l>In tender Love and Pitty to the State;</l>
+               <l>And in a work ſo great, for his defence,</l>
+               <l>Did ſatisfie himſelf with <hi>Innocence.</hi>
+               </l>
+               <l>To the <hi>grim Tree</hi> of Fate, he cheerful came,</l>
+               <l>By his laſt Act, t'obtain <hi>a Martyr</hi>'s fame.</l>
+               <l>Nor did the <hi>Reſt</hi> diſmaid approach the Place,</l>
+               <l>A Dying Martyr's Smiles crown'd ev'ry face.</l>
+               <l>And I am told his <hi>Holineſs</hi> has given</l>
+               <l>To ev'ry one of them, <hi>A Throne in Heaven.</hi>
+               </l>
+               <l>Each had his <hi>Paſport,</hi> and, <hi>by Maſs,</hi> 'tis hop't,</l>
+               <l>There's not a Soul in <hi>Purgatory</hi> ſtopt.</l>
+               <l>Though Conſcience be in Man a ſecret ſhame</l>
+               <l>Of doing ill, yet in <hi>Cabals</hi> they claim</l>
+               <l>Not only Freedom for the Ills they do,</l>
+               <l>But call Religion to abet them too.</l>
+               <l>A <hi>Deity</hi> they ſeek in bloud, and boaſt,</l>
+               <l>They then have found him, when they've Nature loſt.</l>
+               <l>But whilſt with <hi>Heaven,</hi> they ſo familiar grow</l>
+               <l>They to the <hi>Earthly Gods</hi> diſdain to bow.</l>
+               <l>And their <hi>Religion,</hi> not from Zeal approve,</l>
+               <l>But for the gainful Miſchiefs which they love.</l>
+               <l>
+                  <hi>Miſchiefs,</hi> whoſe depths, in <hi>Tyber</hi> muſt be found;</l>
+               <l>And which, no Line, but length of Time, can ſound.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
